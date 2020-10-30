@@ -7,7 +7,7 @@ numpy>=1.18.5
 scipy>=1.5.2
 seaborn==0.11.0
 matplotlib==3.3.2
-
+xlrd>=1.0.0
 
 
 
